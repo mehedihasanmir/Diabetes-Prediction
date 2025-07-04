@@ -57,6 +57,5 @@ The dataset used for this project is the **Diabetes Dataset**, which is publicly
 - Confusion Matrix
 - Accuracy Score
 - Precision, Recall, F1-Score
-- ROC-AUC Curve (if applicable)
 
 
